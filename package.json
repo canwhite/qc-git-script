@@ -1,0 +1,12 @@
+{
+  "name": "ascript",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "chmod +x ./index.mjs & ./index.mjs"
+  },
+  "dependencies": {
+    "zx": "^7.2.3"
+  }
+}
